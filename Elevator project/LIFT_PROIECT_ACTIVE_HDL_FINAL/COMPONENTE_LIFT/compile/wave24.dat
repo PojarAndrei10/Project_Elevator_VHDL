@@ -1,0 +1,27 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "e#9#std_logicc9 UX01ZWLH-"
+$IN 1 1 Reset
+$IN 1 0 5 0 ""
+$IN 5 1 clk
+$IN 5 0 clk
+$IN 1 0 Reset
+$IN 5 0 clk
+$IN 5 0 clk
+$IN 1 0 Reset
+I 2 "a#28#std_logic_vector(3 downto 0)1 ricd3 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS IN 25 2 4 r1
+$SC 9-21/4
+$BUS IN 42 2 4 r2
+$SC 26-38/4
+$BUS OUT 59 2 4 anod
+$SC 43-55/4
+I 3 "a#28#std_logic_vector(6 downto 0)1 ricd6 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS OUT 88 3 7 catod
+$SC 60-84/4
+$S +5 1 semnal1
+$BUS S +20 2 4 6 0 "2"
+$SC 93-+12/4
+$BUS S +21 2 4 6 0 "3"
+$SC 110-+12/4
+$ENDWAVE

@@ -1,0 +1,175 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "e#9#std_logicc9 UX01ZWLH-"
+$IN 1 1 Reset
+$IN 1 0 5 0 ""
+$IN 5 1 clk
+$IN 5 0 clk
+$IN 1 0 Reset
+$IN 5 0 clk
+$IN 5 0 clk
+$IN 1 0 Reset
+I 2 "a#28#std_logic_vector(3 downto 0)1 ricd3 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS OUT 25 2 4 anod
+$SC 9-21/4
+I 3 "a#28#std_logic_vector(6 downto 0)1 ricd6 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS OUT 54 3 7 catod
+$SC 26-50/4
+$IN +5 1 senzori
+$IN 1 0 Reset
+$IN 5 0 clk
+$OUT 59 1 sens
+$IN 1 0 reset
+$IN 5 0 clk
+$IN 5 0 clk
+$IN 1 0 Reset
+$S 63 1 clk_num2
+$OUT 59 0 sens
+$OUT +0 0 sens
+$S +8 1 clk_num
+$BUS IN 87 2 4 cerere_lift
+$SC 71-83/4
+$IN +5 1 oke
+$IN 1 0 Reset
+$IN 5 0 clk
+$IN 55 0 senzori
+$IN 92 1 viteza_intrare
+$BUS OUT +4 2 4 anod
+$SC 9-21/4
+$BUS OUT 97 3 7 catod
+$SC 26-50/4
+$OUT 98 1 usi_deschise
+$OUT 59 0 sens
+$OUT +43 1 viteza_iesire
+$S 67 0 clk_num
+$S +39 1 7 0 "1"
+$S 63 0 7 0 "2"
+$S +47 1 clk2
+$BUS IN +4 2 4 cerere_lift
+$SC 71-83/4
+$IN +5 0 oke
+$IN 1 0 Reset
+$IN 5 0 clk
+$IN 55 0 senzori
+$IN 92 0 viteza_intrare
+$BUS OUT +23 2 4 anod
+$SC 9-21/4
+$BUS OUT +95 3 7 catod
+$SC 26-50/4
+$OUT 98 0 usi_deschise
+$OUT 59 0 sens
+$OUT +43 0 viteza_iesire
+$ENDTIME 60000
+$WAVES 50
+=0 T 0
+=1 D 0 1
+$VALUES
+V 2
+U
+1
+$END
+$WAVES 98
+*0
+=2 D 0 2
+$VALUES
+V 2
+U
+0
+$END
+$WAVES 5
+*0
+=3 T 50k
+$VALUES
+V 2
+0
+1
+$END
+$WAVES 21
+*0
+=4 D 50k 3
+$VALUES
+V 2
+U
+0
+$END
+$WAVES 1 55 71 88 +4
+*0
+$VALUES
+V 1
+0
+$END
+$WAVES 9-+8/4
+*0
+*4
+$VALUES
+V 2
+U
+1
+$END
+$WAVES +9-46/4
+*0
+*1
+*2
+=5 D 50k 4
+$VALUES
+V 4
+U
+1
+0
+1
+$END
+$WAVES 59 +8
+*0
+*2
+$VALUES
+V 2
+U
+1
+$END
+$WAVES 63 +43
+*0
+$VALUES
+V 1
+U
+$END
+$WAVES 75-+8/4
+*0
+$VALUES
+V 1
+1
+$END
+$WAVES +19 +8
+*0
+*1
+$VALUES
+V 2
+U
+0
+$END
+$ENDTIME 120000
+$WAVES 5
+=6 T 100k
+$VALUES
+V 1
+0
+$END
+$ENDTIME 180000
+$WAVES 5
+=7 T 150k
+$VALUES
+V 1
+1
+$END
+$WAVES 21
+=8 D 150k 3
+$VALUES
+V 1
+1
+$END
+$WAVES 17
+*8
+$VALUES
+V 1
+0
+$END
+$ENDWAVE

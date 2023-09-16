@@ -1,0 +1,17 @@
+elbread.dll ver. 1.0.5.365 Tue May 31 14:56:07 2022
+
+
+-----------------------------------------
+Entity   | Architecture | Library      
+-----------------------------------------
+mem_ram  | arh1         | COMPONENTE_LIFT
+-----------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+-----------------------------

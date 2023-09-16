@@ -1,0 +1,28 @@
+$WAVE4
+$RESOLUTION 1000
+$ENDTIME 235006650000
+I 1 "e#9#std_logicc9 UX01ZWLH-"
+$IN 1 1 Reset
+$IN 2 1 clk
+$IN 3 1 okee
+$OUT 4 1 outp
+$S 5 1 semnal
+P 0 1-5 CS "0"
+P 0 1 Stimulator "KEY:KEY:Override:82/0,1:R:1:"
+$WAVES 1
+=0 D 0 1
+=1 D 2000k 3
+=2 D 100k 3
+$VALUES
+V 3
+0
+1
+0
+$END
+$WAVES 2
+*0
+R 1 4700133 =3 T 50k
+$VALUES
+R 2 2350067 0 1
+$END
+$ENDWAVE

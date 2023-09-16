@@ -1,0 +1,15 @@
+i<>.\src\memorie_ram.vhd
+i<>.\src\mux2_1.vhd
+i<>.\src\mux16_1.vhd
+i<>.\src\poarta_and.vhd
+i<>.\src\inversor.vhd
+i<>.\src\cronometru_usa.vhd
+i<>.\src\reg_inel_depl_circular.vhd
+i<>.\src\divizor_frecventa.vhd
+i<>.\src\dcd_bcd_7_segments.vhd
+i<>.\src\afisor_placuta.vhd
+i<>.\src\numarator_clasic_etaj_sens.vhd
+i<>.\src\numarator_viteza.vhd
+i<>.\src\numarator_2.vhd
+i<>.\src\uc.vhd
+i<>.\src\Main_lift.vhd

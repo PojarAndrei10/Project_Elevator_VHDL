@@ -1,0 +1,696 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom $DSN/src/afisor_placuta.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\afisor_placuta.vhd
+# Compile Entity "afisor"
+# Entity `afisor' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "afisor"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/afisor_placuta.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\afisor_placuta.vhd
+# Compile Entity "afisor"
+# Compile Architecture "arh1" of Entity "afisor"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/dcd_bcd_7_segments.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\dcd_bcd_7_segments.vhd
+# Compile Entity "decoderbcd7"
+# Compile Architecture "arh1" of Entity "decoderbcd7"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom $DSN/src/divizor_frecventa.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\divizor_frecventa.vhd
+# Compile Entity "divf"
+# Entity `divf' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "divf"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/memorie_ram.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\memorie_ram.vhd
+# Compile Entity "mem_ram"
+# Entity `mem_ram' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "mem_ram"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/mux16_1.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\mux16_1.vhd
+# Compile Entity "multiplexor16_1"
+# Entity `multiplexor16_1' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "multiplexor16_1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/numarator_viteza.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\numarator_viteza.vhd
+# Compile Entity "NUM"
+# Compile Architecture "arh1" of Entity "NUM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/numarator_viteza.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\numarator_viteza.vhd
+# Compile Entity "NUM"
+# Entity `NUM' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "NUM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/numarator_viteza.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\numarator_viteza.vhd
+# Compile Entity "NUM"
+# Entity `NUM' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "NUM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/numarator_clasic_etaj_sens.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\numarator_clasic_etaj_sens.vhd
+# Compile Entity "num_1"
+# Entity `num_1' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "num_1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/numarator_2.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\numarator_2.vhd
+# Compile Entity "NUM_2"
+# Compile Architecture "arh1" of Entity "NUM_2"
+# Error: COMP96_0078: numarator_2.vhd : (16, 29): Unknown identifier "out_num".
+# Error: COMP96_0348: numarator_2.vhd : (16, 9): Name on sensitivity list must denote a signal.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/numarator_2.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\numarator_2.vhd
+# Compile Entity "NUM_2"
+# Entity `NUM_2' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "NUM_2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom $DSN/src/numarator_2.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\numarator_2.vhd
+# Compile Entity "NUM_2"
+# Compile Architecture "arh1" of Entity "NUM_2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/numarator_2.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\numarator_2.vhd
+# Compile Entity "NUM_2"
+# Entity `NUM_2' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "NUM_2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom $DSN/src/Main_lift.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\Main_lift.vhd
+# Compile Entity "lift"
+# Entity `lift' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "lift"
+# Warning: ELAB1_0026: Main_lift.vhd : (154, 0): There is no default binding for component "afisor".(Port "r1" is not on the entity).
+# Compile success 0 Errors 1 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/reg_inel_depl_circular.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\reg_inel_depl_circular.vhd
+# Compile Entity "registru"
+# Compile Architecture "arh1" of Entity "registru"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/reg_inel_depl_circular.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\reg_inel_depl_circular.vhd
+# Compile Entity "registru"
+# Entity `registru' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "registru"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/reg_inel_depl_circular.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\reg_inel_depl_circular.vhd
+# Compile Entity "registru"
+# Entity `registru' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "registru"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom $DSN/src/poarta_and.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\poarta_and.vhd
+# Compile Entity "poarta_si"
+# Entity `poarta_si' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "poarta_si"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/inversor.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\inversor.vhd
+# Compile Entity "poarta_not"
+# Entity `poarta_not' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "poarta_not"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/mux2_1.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\mux2_1.vhd
+# Compile Entity "multiplexor2_1"
+# Entity `multiplexor2_1' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "multiplexor2_1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/cronometru_usa.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\cronometru_usa.vhd
+# Compile Entity "timer_usa"
+# Entity `timer_usa' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "timer_usa"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom $DSN/src/cronometru_usa.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\cronometru_usa.vhd
+# Compile Entity "timer_usa"
+# Compile Architecture "arh1" of Entity "timer_usa"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom $DSN/src/uc.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\uc.vhd
+# Compile Entity "unitate_decizie"
+# Compile Architecture "arh1" of Entity "unitate_decizie"
+# Error: COMP96_0078: uc.vhd : (15, 9): Unknown identifier "sens".
+# Error: COMP96_0348: uc.vhd : (15, 8): Name on sensitivity list must denote a signal.
+# Error: COMP96_0078: uc.vhd : (21, 37): Unknown identifier "sens".
+# Error: COMP96_0133: uc.vhd : (21, 37): Cannot find object declaration.
+# Error: COMP96_0071: uc.vhd : (21, 10): Operator "=" is not defined for such operands.
+# Error: COMP96_0104: uc.vhd : (21, 9): Undefined type of expression.
+# Error: COMP96_0098: uc.vhd : (21, 9): Boolean type expected.
+# Error: COMP96_0078: uc.vhd : (23, 37): Unknown identifier "sens".
+# Error: COMP96_0133: uc.vhd : (23, 37): Cannot find object declaration.
+# Error: COMP96_0071: uc.vhd : (23, 10): Operator "=" is not defined for such operands.
+# Error: COMP96_0104: uc.vhd : (23, 9): Undefined type of expression.
+# Error: COMP96_0098: uc.vhd : (23, 9): Boolean type expected.
+# Error: COMP96_0078: uc.vhd : (25, 37): Unknown identifier "sens".
+# Error: COMP96_0133: uc.vhd : (25, 37): Cannot find object declaration.
+# Error: COMP96_0071: uc.vhd : (25, 10): Operator "=" is not defined for such operands.
+# Error: COMP96_0104: uc.vhd : (25, 9): Undefined type of expression.
+# Error: COMP96_0098: uc.vhd : (25, 9): Boolean type expected.
+# Error: COMP96_0078: uc.vhd : (27, 37): Unknown identifier "sens".
+# Error: COMP96_0133: uc.vhd : (27, 37): Cannot find object declaration.
+# Error: COMP96_0071: uc.vhd : (27, 10): Operator "=" is not defined for such operands.
+# Error: COMP96_0104: uc.vhd : (27, 9): Undefined type of expression.
+# Error: COMP96_0098: uc.vhd : (27, 9): Boolean type expected.
+# Error: COMP96_0078: uc.vhd : (29, 37): Unknown identifier "sens".
+# Error: COMP96_0133: uc.vhd : (29, 37): Cannot find object declaration.
+# Error: COMP96_0071: uc.vhd : (29, 10): Operator "=" is not defined for such operands.
+# Error: COMP96_0104: uc.vhd : (29, 9): Undefined type of expression.
+# Error: COMP96_0098: uc.vhd : (29, 9): Boolean type expected.
+# Error: COMP96_0078: uc.vhd : (31, 37): Unknown identifier "sens".
+# Error: COMP96_0133: uc.vhd : (31, 37): Cannot find object declaration.
+# Error: COMP96_0071: uc.vhd : (31, 10): Operator "=" is not defined for such operands.
+# Error: COMP96_0104: uc.vhd : (31, 9): Undefined type of expression.
+# Error: COMP96_0098: uc.vhd : (31, 9): Boolean type expected.
+# Error: COMP96_0078: uc.vhd : (33, 37): Unknown identifier "sens".
+# Error: COMP96_0133: uc.vhd : (33, 37): Cannot find object declaration.
+# Error: COMP96_0071: uc.vhd : (33, 10): Operator "=" is not defined for such operands.
+# Error: COMP96_0104: uc.vhd : (33, 9): Undefined type of expression.
+# Error: COMP96_0098: uc.vhd : (33, 9): Boolean type expected.
+# Error: COMP96_0078: uc.vhd : (35, 37): Unknown identifier "sens".
+# Error: COMP96_0133: uc.vhd : (35, 37): Cannot find object declaration.
+# Error: COMP96_0071: uc.vhd : (35, 10): Operator "=" is not defined for such operands.
+# Error: COMP96_0104: uc.vhd : (35, 9): Undefined type of expression.
+# Error: COMP96_0098: uc.vhd : (35, 9): Boolean type expected.
+# Compile failure 42 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom $DSN/src/uc.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\uc.vhd
+# Compile Entity "unitate_decizie"
+# Entity `unitate_decizie' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "unitate_decizie"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/Main_lift.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\Main_lift.vhd
+# Compile Entity "lift"
+# Entity `lift' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "lift"
+# Warning: ELAB1_0026: Main_lift.vhd : (154, 0): There is no default binding for component "afisor".(Port "r1" is not on the entity).
+# Compile success 0 Errors 1 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/Main_lift.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\Main_lift.vhd
+# Compile Entity "lift"
+# Entity `lift' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "lift"
+# Warning: ELAB1_0026: Main_lift.vhd : (155, 0): There is no default binding for component "afisor".(Port "r1" is not on the entity).
+# Compile success 0 Errors 1 Warnings  Analysis time :  0.4 [s]
+acom $DSN/src/memorie_ram.vhd $DSN/src/mux2_1.vhd $DSN/src/mux16_1.vhd $DSN/src/poarta_and.vhd $DSN/src/inversor.vhd $DSN/src/cronometru_usa.vhd $DSN/src/reg_inel_depl_circular.vhd $DSN/src/divizor_frecventa.vhd $DSN/src/dcd_bcd_7_segments.vhd $DSN/src/afisor_placuta.vhd $DSN/src/numarator_clasic_etaj_sens.vhd $DSN/src/numarator_viteza.vhd $DSN/src/numarator_2.vhd $DSN/src/uc.vhd $DSN/src/main_lift.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\memorie_ram.vhd
+# Compile Entity "mem_ram"
+# Entity `mem_ram' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "mem_ram"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\mux2_1.vhd
+# Compile Entity "multiplexor2_1"
+# Entity `multiplexor2_1' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "multiplexor2_1"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\mux16_1.vhd
+# Compile Entity "multiplexor16_1"
+# Entity `multiplexor16_1' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "multiplexor16_1"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\poarta_and.vhd
+# Compile Entity "poarta_si"
+# Entity `poarta_si' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "poarta_si"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\inversor.vhd
+# Compile Entity "poarta_not"
+# Entity `poarta_not' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "poarta_not"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\cronometru_usa.vhd
+# Compile Entity "timer_usa"
+# Entity `timer_usa' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "timer_usa"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\reg_inel_depl_circular.vhd
+# Compile Entity "registru"
+# Entity `registru' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "registru"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\divizor_frecventa.vhd
+# Compile Entity "divf"
+# Entity `divf' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "divf"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\dcd_bcd_7_segments.vhd
+# Compile Entity "decoderbcd7"
+# Entity `decoderbcd7' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "decoderbcd7"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\afisor_placuta.vhd
+# Compile Entity "afisor"
+# Entity `afisor' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "afisor"
+# Warning: ELAB1_0026: afisor_placuta.vhd : (46, 0): There is no default binding for component "decoderbcd7".(Port "bcd" is not on the entity).
+# Warning: ELAB1_0026: afisor_placuta.vhd : (48, 0): There is no default binding for component "registru".(Port "Y" is not on the entity).
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\numarator_clasic_etaj_sens.vhd
+# Compile Entity "num_1"
+# Entity `num_1' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "num_1"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\numarator_viteza.vhd
+# Compile Entity "NUM"
+# Entity `NUM' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "NUM"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\numarator_2.vhd
+# Compile Entity "NUM_2"
+# Entity `NUM_2' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "NUM_2"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\uc.vhd
+# Compile Entity "unitate_decizie"
+# Entity `unitate_decizie' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "unitate_decizie"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\Main_lift.vhd
+# Compile Entity "lift"
+# Entity `lift' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "lift"
+# Compile success 0 Errors 2 Warnings  Analysis time :  2.0 [s]
+acom $DSN/src/Main_lift.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\Main_lift.vhd
+# Compile Entity "lift"
+# Entity `lift' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "lift"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/Main_lift.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\Main_lift.vhd
+# Compile Entity "lift"
+# Entity `lift' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "lift"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/afisor_placuta.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\afisor_placuta.vhd
+# Compile Entity "afisor"
+# Entity `afisor' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "afisor"
+# Warning: ELAB1_0026: afisor_placuta.vhd : (46, 0): There is no default binding for component "decoderbcd7".(Port "bcd" is not on the entity).
+# Warning: ELAB1_0026: afisor_placuta.vhd : (48, 0): There is no default binding for component "registru".(Port "Y" is not on the entity).
+# Compile success 0 Errors 2 Warnings  Analysis time :  0.1 [s]
+acom $DSN/src/afisor_placuta.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\afisor_placuta.vhd
+# Compile Entity "afisor"
+# Entity `afisor' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "afisor"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom $DSN/src/memorie_ram.vhd $DSN/src/mux2_1.vhd $DSN/src/mux16_1.vhd $DSN/src/poarta_and.vhd $DSN/src/inversor.vhd $DSN/src/cronometru_usa.vhd $DSN/src/reg_inel_depl_circular.vhd $DSN/src/divizor_frecventa.vhd $DSN/src/dcd_bcd_7_segments.vhd $DSN/src/afisor_placuta.vhd $DSN/src/numarator_clasic_etaj_sens.vhd $DSN/src/numarator_viteza.vhd $DSN/src/numarator_2.vhd $DSN/src/uc.vhd $DSN/src/main_lift.vhd
+# Compile...
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\memorie_ram.vhd
+# Compile Entity "mem_ram"
+# Entity `mem_ram' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "mem_ram"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\mux2_1.vhd
+# Compile Entity "multiplexor2_1"
+# Entity `multiplexor2_1' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "multiplexor2_1"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\mux16_1.vhd
+# Compile Entity "multiplexor16_1"
+# Entity `multiplexor16_1' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "multiplexor16_1"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\poarta_and.vhd
+# Compile Entity "poarta_si"
+# Entity `poarta_si' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "poarta_si"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\inversor.vhd
+# Compile Entity "poarta_not"
+# Entity `poarta_not' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "poarta_not"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\cronometru_usa.vhd
+# Compile Entity "timer_usa"
+# Entity `timer_usa' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "timer_usa"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\reg_inel_depl_circular.vhd
+# Compile Entity "registru"
+# Entity `registru' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "registru"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\divizor_frecventa.vhd
+# Compile Entity "divf"
+# Entity `divf' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "divf"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\dcd_bcd_7_segments.vhd
+# Compile Entity "decoderbcd7"
+# Entity `decoderbcd7' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "decoderbcd7"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\afisor_placuta.vhd
+# Compile Entity "afisor"
+# Entity `afisor' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "afisor"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\numarator_clasic_etaj_sens.vhd
+# Compile Entity "num_1"
+# Entity `num_1' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "num_1"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\numarator_viteza.vhd
+# Compile Entity "NUM"
+# Entity `NUM' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "NUM"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\numarator_2.vhd
+# Compile Entity "NUM_2"
+# Entity `NUM_2' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "NUM_2"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\uc.vhd
+# Compile Entity "unitate_decizie"
+# Entity `unitate_decizie' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "unitate_decizie"
+# File: c:\My_Designs\LIFT_PROIECT_ACTIVE_HDL_FINAL\COMPONENTE_LIFT\src\Main_lift.vhd
+# Compile Entity "lift"
+# Entity `lift' has been skipped - no difference detected.
+# Compile Architecture "arh1" of Entity "lift"
+# Compile success 0 Errors 0 Warnings  Analysis time :  2.0 [s]
+asim -advdataflow  lift arh1
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2486 kB (elbread=1071 elab2=359 kernel=1056 sdf=0)
+# 2:47 PM, Tuesday, May 31, 2022
+# Simulation has been initialized
+# Selected Top-Level: lift (arh1)
+# Signal a1 not found in design
+# Signal a2 not found in design
+# Signal we not found in design
+# Signal dd not found in design
+# Signal out_ram not found in design
+# Signal m not found in design
+# Signal a not found in design
+# Signal b not found in design
+# Signal sel not found in design
+# Signal out_mux not found in design
+# Signal a0 not found in design
+# Signal a1 not found in design
+# Signal a2 not found in design
+# Signal a3 not found in design
+# Signal a4 not found in design
+# Signal a5 not found in design
+# Signal a6 not found in design
+# Signal a7 not found in design
+# Signal a8 not found in design
+# Signal a9 not found in design
+# Signal a10 not found in design
+# Signal a11 not found in design
+# Signal a12 not found in design
+# Signal a13 not found in design
+# Signal a14 not found in design
+# Signal a15 not found in design
+# Signal sel not found in design
+# Signal Outt not found in design
+# Signal a not found in design
+# Signal b not found in design
+# Signal c not found in design
+# Signal y not found in design
+# Signal a not found in design
+# Signal b not found in design
+# Signal okee not found in design
+# Signal outp not found in design
+# Signal semnal not found in design
+# Signal Y not found in design
+# Signal semnall not found in design
+# Signal y not found in design
+# Signal bcd not found in design
+# Signal outt not found in design
+# Signal r1 not found in design
+# Signal r2 not found in design
+# Signal semnal1 not found in design
+# Signal semnal2 not found in design
+# Signal semnal3 not found in design
+# Signal out_num not found in design
+# Signal secunde not found in design
+# Signal en not found in design
+# Signal clk_out not found in design
+# Signal outt not found in design
+# Signal out_num not found in design
+# Signal Y not found in design
+# Signal out_num2 not found in design
+# Signal ie_ud not found in design
+run 100ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 2,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 2,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 2,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 2,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 2,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 2,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 2,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 2,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 2,  Instance: /Verificare,  Process: line__15.
+# KERNEL: stopped at time: 100 ns
+run 100ns
+# KERNEL: stopped at time: 200 ns
+run 100ns
+# KERNEL: stopped at time: 300 ns
+run 100ns
+# KERNEL: stopped at time: 400 ns
+run 100ns
+# KERNEL: stopped at time: 500 ns
+run 100ns
+# KERNEL: stopped at time: 600 ns
+run 100ns
+# KERNEL: stopped at time: 700 ns
+run 100ns
+# KERNEL: stopped at time: 800 ns
+run 100ns
+# KERNEL: stopped at time: 900 ns
+run 100ns
+# KERNEL: stopped at time: 1 us
+run 100ns
+# KERNEL: stopped at time: 1100 ns
+run 100ns
+# KERNEL: stopped at time: 1200 ns
+run 100ns
+# KERNEL: stopped at time: 1300 ns
+run 100ns
+# KERNEL: stopped at time: 1400 ns
+run 100ns
+# KERNEL: stopped at time: 1500 ns
+run 100ns
+# KERNEL: stopped at time: 1600 ns
+run 100ns
+# KERNEL: stopped at time: 1700 ns
+run 100ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 1800 ns,  Iteration: 1,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 1800 ns,  Iteration: 1,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 1800 ns,  Iteration: 1,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 1800 ns,  Iteration: 1,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 1800 ns,  Iteration: 1,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 1800 ns,  Iteration: 1,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 1800 ns,  Iteration: 1,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 1800 ns,  Iteration: 1,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 1800 ns,  Iteration: 1,  Instance: /Verificare,  Process: line__15.
+# KERNEL: stopped at time: 1800 ns
+run 100ns
+# KERNEL: stopped at time: 1900 ns
+run 100ns
+# KERNEL: stopped at time: 2 us
+run 100ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 2 us,  Iteration: 4,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 2 us,  Iteration: 4,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 2 us,  Iteration: 4,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 2 us,  Iteration: 4,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 2 us,  Iteration: 4,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 2 us,  Iteration: 4,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 2 us,  Iteration: 4,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 2 us,  Iteration: 4,  Instance: /Verificare,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 2 us,  Iteration: 4,  Instance: /Verificare,  Process: line__15.
+# KERNEL: stopped at time: 2100 ns
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  mem_ram arh1
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2431 kB (elbread=1070 elab2=311 kernel=1050 sdf=0)
+# 2:56 PM, Tuesday, May 31, 2022
+# Simulation has been initialized
+# Selected Top-Level: mem_ram (arh1)
+# Signal a not found in design
+# Signal b not found in design
+# Signal sel not found in design
+# Signal out_mux not found in design
+# Signal a0 not found in design
+# Signal a3 not found in design
+# Signal a4 not found in design
+# Signal a5 not found in design
+# Signal a6 not found in design
+# Signal a7 not found in design
+# Signal a8 not found in design
+# Signal a9 not found in design
+# Signal a10 not found in design
+# Signal a11 not found in design
+# Signal a12 not found in design
+# Signal a13 not found in design
+# Signal a14 not found in design
+# Signal a15 not found in design
+# Signal sel not found in design
+# Signal Outt not found in design
+# Signal a not found in design
+# Signal b not found in design
+# Signal c not found in design
+# Signal y not found in design
+# Signal a not found in design
+# Signal b not found in design
+# Signal clk not found in design
+# Signal okee not found in design
+# Signal outp not found in design
+# Signal semnal not found in design
+# Signal clk not found in design
+# Signal Y not found in design
+# Signal semnall not found in design
+# Signal clk not found in design
+# Signal y not found in design
+# Signal bcd not found in design
+# Signal outt not found in design
+# Signal clk not found in design
+# Signal r1 not found in design
+# Signal r2 not found in design
+# Signal anod not found in design
+# Signal catod not found in design
+# Signal semnal1 not found in design
+# Signal semnal2 not found in design
+# Signal semnal3 not found in design
+# Signal senzori not found in design
+# Signal clk not found in design
+# Signal out_num not found in design
+# Signal sens not found in design
+# Signal secunde not found in design
+# Signal clk not found in design
+# Signal en not found in design
+# Signal clk_out not found in design
+# Signal outt not found in design
+# Signal clk not found in design
+# Signal out_num not found in design
+# Signal clk_num2 not found in design
+# Signal sens not found in design
+# Signal Y not found in design
+# Signal out_num2 not found in design
+# Signal sens not found in design
+# Signal ie_ud not found in design
+# Signal clk_num not found in design
+# Signal cerere_lift not found in design
+# Signal ie_sj not found in design
+# Signal usi_iesire not found in design
+# Signal iesire_numarator not found in design
+# Signal oke not found in design
+# Signal clk not found in design
+# Signal senzori not found in design
+# Signal viteza_intrare not found in design
+# Signal anod not found in design
+# Signal catod not found in design
+# Signal usi_deschise not found in design
+# Signal sens not found in design
+# Signal senzori_iesire not found in design
+# Signal viteza_iesire not found in design
+# Signal iesire_ie_sj not found in design
+# Signal sus not found in design
+# Signal clk_num not found in design
+# Signal semnal_usa not found in design
+# Signal cerere_lift not found in design
+# Signal ie_sj not found in design
+# Signal oke not found in design
+# Signal clk not found in design
+# Signal senzori not found in design
+# Signal viteza_intrare not found in design
+# Signal anod not found in design
+# Signal catod not found in design
+# Signal usi_deschise not found in design
+# Signal sens not found in design
+# Signal senzori_iesire not found in design
+# Signal viteza_iesire not found in design
+# Signal sus not found in design
+# Signal semnal_usa not found in design
+# Signal iesire_numarator not found in design
+endsim
+# All when statements cleared.
+# Simulation has been stopped

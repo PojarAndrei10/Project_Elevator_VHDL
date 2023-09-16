@@ -1,0 +1,43 @@
+$WAVE4
+$RESOLUTION 1000
+$ENDTIME 235006650000
+I 1 "a#28#std_logic_vector(3 downto 0)1 ricd3 0 e#9#std_logicc9 UX01ZWLH-"
+I 2 "e#9#std_logicc9 UX01ZWLH-"
+$BUS IN 1 1 4 a0
+$SC 2-5
+$BUS IN 6 1 4 a1
+$SC 7-+3
+$BUS IN +1 1 4 a2
+$SC +1-+3
+$BUS IN +1 1 4 a3
+$SC +1-+3
+$BUS IN +1 1 4 a4
+$SC +1-+3
+$BUS IN +1 1 4 a5
+$SC +1-+3
+$BUS IN +1 1 4 a6
+$SC +1-+3
+$BUS IN +1 1 4 a7
+$SC +1-+3
+$BUS IN +1 1 4 a8
+$SC +1-+3
+$BUS IN +1 1 4 a9
+$SC +1-+3
+$BUS IN +1 1 4 a10
+$SC +1-+3
+$BUS IN +1 1 4 a11
+$SC +1-+3
+$BUS IN +1 1 4 a12
+$SC +1-+3
+$BUS IN +1 1 4 a13
+$SC +1-+3
+$BUS IN +1 1 4 a14
+$SC +1-+3
+$BUS IN +1 1 4 a15
+$SC +1-+3
+$BUS IN +1 1 4 sel
+$SC +1-+3
+$BUS OUT +1 1 4 Outt
+$SC +1-+3
+P 0 1-90 CS "0"
+$ENDWAVE

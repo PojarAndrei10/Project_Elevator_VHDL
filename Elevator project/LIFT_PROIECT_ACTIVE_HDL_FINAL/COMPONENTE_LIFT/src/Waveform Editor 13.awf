@@ -1,0 +1,50 @@
+$WAVE4
+$RESOLUTION 1000
+$ENDTIME 235006650000
+I 1 "e#9#std_logicc9 UX01ZWLH-"
+$IN 1 1 senzori
+$IN 2 1 Reset
+$IN 3 1 clk
+I 2 "a#28#std_logic_vector(3 downto 0)1 ricd3 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS S 4 2 4 out_num
+$SC 5-8
+$OUT 9 1 sens
+P 0 1-9 CS "0"
+P 0 2 Stimulator "KEY:KEY:Override:82/0,1:R:1:"
+$WAVES 1
+=0 D 0 1
+R 1 2 =1 D 300k 3
+=2 D 900k 3
+=3 D 200k 3
+$VALUES
+R 2 2 0 1
+V 1
+0
+$END
+$WAVES 2
+*0
+=4 D 2000k 3
+=5 D 100k 3
+$VALUES
+V 3
+0
+1
+0
+$END
+$WAVES 3
+*0
+R 1 4700133 =6 T 50k
+$VALUES
+R 2 2350067 0 1
+$END
+$WAVES 9
+*0
+=7 D 1800k 2
+=8 D 200k 5
+$VALUES
+V 3
+1
+0
+1
+$END
+$ENDWAVE

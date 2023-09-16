@@ -1,0 +1,12 @@
+$WAVE4
+$RESOLUTION 1000
+$ENDTIME 235006650000
+I 1 "e#9#std_logicc9 UX01ZWLH-"
+$IN 1 1 a -1 0 556200700000
+$OUT 2 1 b -1 0 556200700000
+I 2 "a#28#std_logic_vector(3 downto 0)1 ricd3 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS IN 3 2 4 sel
+$SC 4-7
+$OUT 8 1 out_mux
+P 0 1-8 CS "0"
+$ENDWAVE

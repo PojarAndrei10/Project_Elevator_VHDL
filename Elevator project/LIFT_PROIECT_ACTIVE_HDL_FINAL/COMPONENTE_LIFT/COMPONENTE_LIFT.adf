@@ -1,0 +1,124 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=COMPONENTE_LIFT
+
+[Library]
+COMPONENTE_LIFT=.\COMPONENTE_LIFT.lib
+
+[$LibMap$]
+COMPONENTE_LIFT=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+WireDelay=2
+NoTchkMsg=0
+NoTimingChecks=0
+HESPrepare=0
+CreateASDBDatabase=0
+ASDBDatabaseRefresh=0
+StackMemorySize=32
+ASDBREFTESHTIME=0
+RetvalMemorySize=32
+EnableCallbacks=0
+VitalAccel=1
+DisableVitalMsg=0
+CBS=0
+EnableSSEvent=0
+FullDebugModeSignalsFile=
+EnableFullDebugMode=0
+preservesimresultsfile=0
+
+[IMPLEMENTATION]
+UCF=
+
+[LocalVhdlSets]
+ReorderOnFirstRebuild=1
+EnableVHDL87Key=1
+NetlistCompilation=0
+ElaborationAfterCompilation=0
+MaxErrorsKey=100
+CompileWithDebug=1
+OptimizationLevel=2
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=lift|arh1|0 mem_ram|arh1|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/memorie_ram.vhd=-1
+/mux2_1.vhd=-1
+/mux16_1.vhd=-1
+/poarta_and.vhd=-1
+/inversor.vhd=-1
+/cronometru_usa.vhd=-1
+/reg_inel_depl_circular.vhd=-1
+/divizor_frecventa.vhd=-1
+/dcd_bcd_7_segments.vhd=-1
+/afisor_placuta.vhd=-1
+/numarator_clasic_etaj_sens.vhd=-1
+/numarator_viteza.vhd=-1
+/numarator_2.vhd=-1
+/uc.vhd=-1
+/Main_lift.vhd=-1
+/Waveform Editor 1.awf=-1
+/Waveform Editor 2.awf=-1
+/Waveform Editor 3.awf=-1
+/Waveform Editor 4.awf=-1
+/Waveform Editor 5.awf=-1
+/Waveform Editor 8.awf=-1
+/Waveform Editor 9.awf=-1
+/Waveform Editor 10.awf=-1
+/Waveform Editor 11.awf=-1
+/Waveform Editor 12.awf=-1
+/Waveform Editor 13.awf=-1
+/Waveform Editor 14.awf=-1
+/Waveform Editor 15.awf=-1
+/Waveform Editor 18.awf=-1
+/Waveform Editor 7.awf=-1
+
+[Files.Data]
+.\src\memorie_ram.vhd=VHDL Source Code
+.\src\mux2_1.vhd=VHDL Source Code
+.\src\mux16_1.vhd=VHDL Source Code
+.\src\poarta_and.vhd=VHDL Source Code
+.\src\inversor.vhd=VHDL Source Code
+.\src\cronometru_usa.vhd=VHDL Source Code
+.\src\reg_inel_depl_circular.vhd=VHDL Source Code
+.\src\divizor_frecventa.vhd=VHDL Source Code
+.\src\dcd_bcd_7_segments.vhd=VHDL Source Code
+.\src\afisor_placuta.vhd=VHDL Source Code
+.\src\numarator_clasic_etaj_sens.vhd=VHDL Source Code
+.\src\numarator_viteza.vhd=VHDL Source Code
+.\src\numarator_2.vhd=VHDL Source Code
+.\src\uc.vhd=VHDL Source Code
+.\src\Main_lift.vhd=VHDL Source Code
+.\src\Waveform Editor 1.awf=Waveform File
+.\src\Waveform Editor 2.awf=Waveform File
+.\src\Waveform Editor 3.awf=Waveform File
+.\src\Waveform Editor 4.awf=Waveform File
+.\src\Waveform Editor 5.awf=Waveform File
+.\src\Waveform Editor 8.awf=Waveform File
+.\src\Waveform Editor 9.awf=Waveform File
+.\src\Waveform Editor 10.awf=Waveform File
+.\src\Waveform Editor 11.awf=Waveform File
+.\src\Waveform Editor 12.awf=Waveform File
+.\src\Waveform Editor 13.awf=Waveform File
+.\src\Waveform Editor 14.awf=Waveform File
+.\src\Waveform Editor 15.awf=Waveform File
+.\src\Waveform Editor 18.awf=Waveform File
+.\src\Waveform Editor 7.awf=Waveform File
+

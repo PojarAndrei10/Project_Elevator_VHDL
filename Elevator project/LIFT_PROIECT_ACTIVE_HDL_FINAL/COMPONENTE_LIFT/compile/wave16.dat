@@ -1,0 +1,33 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "e#9#std_logicc9 UX01ZWLH-"
+$IN 1 1 Reset
+$IN 1 0 5 0 ""
+$IN 5 1 clk
+$IN 9 1 okee
+$OUT +4 1 outp
+$S +4 1 semnal
+$ENDTIME 556200700000
+$WAVES 13
+=0 T 0
+=1 D 0 1
+$VALUES
+V 2
+U
+1
+$END
+$WAVES 5
+*0
+R 1 11124014 =2 T 50k
+$VALUES
+R 2 5562007 0 1
+V 1
+0
+$END
+$WAVES 1-17/8
+*0
+$VALUES
+V 1
+0
+$END
+$ENDWAVE
