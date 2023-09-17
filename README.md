@@ -1,5 +1,5 @@
 # A system that controls an elevator in a hotel implemented in Active HDL
-Along with one colleague, we designed a system to control an elevator in a hotel with GF+12 floors. The implementation and simulation of the elevator was done in active HDL because it is easier to understand for all VHDL connoisseurs.
+Along with one colleague, we designed a system to control an elevator in a hotel with GF+12 floors. The implementation and simulation of the elevator was done in Active-HDL because it is easier to understand for all VHDL connoisseurs.
 The simulation of the elevator was done by creating a waveform, giving values to the signals using the Stimulators option and watching how the results change. 
 For the implementation of the elevator and for the design, we used the most usable method, i.e. component division.
 Functionality: The implemented elevator satisfies the demands of the people inside and the demands from outside (up, down) that appear along the way from the doors at each level. Requests are honored in floor order, regardless of where they originate (elevator or outside).
